@@ -1,0 +1,23 @@
+@media screen and (max-width:1005px) {
+    .menu{
+        display: none;
+    }
+  
+    .logo{
+            margin: 0;
+            text-align: center; 
+    }
+    .headline{
+        flex: 100%;
+        text-align: center;
+      
+    }
+    .imagem{
+        flex: 100%;
+        margin-left: 5%;
+        margin-right:5%;
+    }
+        
+
+    
+}
